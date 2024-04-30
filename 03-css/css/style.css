@@ -1,0 +1,13 @@
+/* 4 - External CSS */
+Body {
+    padding-bottom: 500px;
+}
+
+h3 {
+    color: green;
+}
+
+/* 5 - Ordem do CSS */
+p {
+    color:blueviolet;
+}
